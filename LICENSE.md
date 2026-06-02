@@ -1,4 +1,4 @@
-# 
+# Top deribit trading bot extensions for Mac OS | Open Source deribit trading bot extensions for PC Windows. Featuring decentralized exchange api and scalping algorithms — optimized for maximum performance on every platform.
 
 
 
